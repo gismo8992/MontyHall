@@ -1,4 +1,4 @@
-package org.example;
+package org.example.sem6;
 /*
 В рамках выполнения задачи необходимо:
 ● Создать свой Java Gradle проект;
